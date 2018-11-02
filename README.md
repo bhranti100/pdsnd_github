@@ -1,5 +1,5 @@
 ### Date created
-10/28/2018
+This project was created on 10/28/2018 
 
 ### Project Title
 bikeshare

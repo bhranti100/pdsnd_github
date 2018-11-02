@@ -6,6 +6,7 @@ bikeshare
 
 ### Description
 It is a python project to understand U.S. bikeshare data. It calculate statistics for users to choose the data and filter for a database to analyze.
+This is an interactive program.
 
 ### Files used
 bikeshare.py

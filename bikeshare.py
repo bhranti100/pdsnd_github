@@ -1,5 +1,5 @@
 """
-This is U.S. bikeshare data analysis.
+This is U.S. bikeshare data analysis. This bikeshare data is provided by Motivate.
 """
 import time
 import pandas as pd

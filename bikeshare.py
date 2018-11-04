@@ -5,12 +5,8 @@ import time
 import pandas as pd
 import numpy as np
 import datetime
+from constants import CITY_DATA, MONTH, WEEK
 
-CITY_DATA = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
-MONTH = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
-WEEK = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.

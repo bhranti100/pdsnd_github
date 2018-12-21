@@ -1,5 +1,5 @@
 """
-This is U.S. bikeshare data analysis.
+This is U.S. bikeshare data analysis for GitHub Project.
 """
 import time
 import pandas as pd
